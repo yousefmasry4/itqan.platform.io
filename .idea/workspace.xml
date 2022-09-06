@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8e29567-9a73-40b5-929f-85e112f9b55d" name="Changes" comment="files">
+    <list default="true" id="d8e29567-9a73-40b5-929f-85e112f9b55d" name="Changes" comment="cli">
+      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662445914997</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="files">
+      <created>1662483463073</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483463073</updated>
+    </task>
+    <task id="LOCAL-00012" summary="cli">
+      <created>1662483593243</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483593243</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +166,7 @@
     <MESSAGE value=".env" />
     <MESSAGE value=".envxzc" />
     <MESSAGE value="files" />
-    <option name="LAST_COMMIT_MESSAGE" value="files" />
+    <MESSAGE value="cli" />
+    <option name="LAST_COMMIT_MESSAGE" value="cli" />
   </component>
 </project>
